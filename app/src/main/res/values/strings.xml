@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="hint_wt">Enter Weight</string>
+    <string name="hint_htFt">Enter Height(Ft)</string>
+    <string name="hint_htIn">Enter Height(In)</string>
+    <string name="btn1">Calculate BMI</string>
+    <string name="btn2">Next</string>
+    <string name="name">Name</string>
+    <string name="SplashScreen">An apple a day,keeps doctor away!</string>
+    <string name="btn3">Translate</string>
+    <string name="btn4">Rotate</string>
+    <string name="btn5">Scale</string>
+    <string name="btn6">Alpha</string>
+    <string name="textResult">Result</string>
+
+
+</resources>
